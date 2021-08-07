@@ -1,5 +1,4 @@
-# Tech in Ethiopia
-
+# Ethiopian Tech Listing
 Directory of apps, websites and other tech made by Ethiopians.
 
 ___
