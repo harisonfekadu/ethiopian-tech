@@ -6,7 +6,7 @@ Directory of apps, websites and other tech made by Ethiopians.
 
 - [E-commerce](#e-commerce)
 
-**Please read [`contributing guidelines`](https://github.com/harisonfekadu/ethiopian-tech/blob/main/contributing.md) before submitting new apps or websites.**
+**Please read [`contributing guidelines`](https://github.com/harisonfekadu/ethiopian-tech/blob/main/contributing.md) before submitting new entries.**
 
 ## E-commerce
 
