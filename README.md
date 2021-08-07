@@ -1,6 +1,6 @@
 # Tech in Ethiopia
 
-Directory of Ethiopian Tech
+Directory of apps, websites and other tech made by Ethiopians.
 
 ## Table of Contents
 
