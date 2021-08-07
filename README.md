@@ -6,5 +6,5 @@ Directory of Ethiopian Tech
 
 ## E-commerce
 | Website | Description |
-------------------------
-| - [ZeMekina](https://zemekina.com/) | Find Your Perfect Car in Ethopia |
+----------|--------------
+|  [ZeMekina](https://zemekina.com/) | Find Your Perfect Car in Ethopia |
