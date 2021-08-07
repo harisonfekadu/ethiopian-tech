@@ -35,7 +35,7 @@ ___
 
 | Link | Description | Platform |
 ----------|----------|----
-|  [Addisfoodie Delivery](https://addisfoodie.com/) | Discover Restuarants in Addis Ababa | `Web, IOS, Android` |
+|  [Addisfoodie Delivery](https://addisfoodie.com/) | Discover Restuarants in Addis Ababa. | `Web, IOS, Android` |
 |  [Dasher Delivery](http://onelink.to/rrp45v) | Serving the family. | `IOS, Android` |
 |  [Deliver Addis](https://tikusdelivery.com/) | Get food from your favorite restaurants in Addis delivered to your home or office. | `Website, IOS, Android` |
 |  [Eat Addis](http://eataddis.com/) | The first ever food delivery service using only telegram. | `Telegram Bot` |
