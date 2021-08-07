@@ -2,9 +2,9 @@
 Directory of Ethiopian Tech
 
 ## Table of Contents
-- E-commerce
+- [E-commerce](#ecommerce)
 
-## E-commerce
+## E-commerce {#ecommerce}
 | Website | Description |
 ----------|--------------
 |  [ZeMekina](https://zemekina.com/) | Find Your Perfect Car in Ethopia |
