@@ -1,13 +1,13 @@
 # Contributing Guidelines
 
-- Add a single app/website in one pull request as it will allow for easier review.
+- Add a single entry in one pull request as it will allow for easier review.
 
-- If an app has a website then it is prefered over store listing.
+- If it exists, links to websites are prefered over store listings for apps.
 
-- Pull request title should include app/website name and category.
+- Pull request title should include entry's name and category.
   - Example: `[Addisfoodie] -> [Delivery Platform]`
 
-- Provide a link to submitted app/website in pull request comment section for easier access without copy paste.
+- Provide a link to submitted entry in pull request comment section for easier access without copy paste.
   - Example: `Link: https://addisfoodie.com/`
 
-- Check if the app/website is currently functional and made by Ethiopians.
+- Check if the entry is currently functional and made by Ethiopians.
